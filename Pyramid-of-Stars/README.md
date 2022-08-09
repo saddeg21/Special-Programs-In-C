@@ -1,30 +1,10 @@
-### Diagram
+# Pyramid Of Stars
+In that project, the main target is make user provide an input of numbers of rows.
+Then, draw a pyramid of stars onto screen.
+## Diagram
+![diagram](https://user-images.githubusercontent.com/89015461/183644644-af39098f-abf5-4f85-bc70-8d3011f5965a.png)
 
-```flow
-st=>start: Run the Program
-e=>end: End
-op1=>inputoutput: How many rows do you
-want in your pyramid?(assign to
-variable)
-op2=>operation: Stuff|current
-sub1=>subroutine: print("\n")|invalid
-cond=>condition: Check If i<=rows
-cond2=>condition: Check If j<=2*rows-1
-cond3=>condition: If j>=rows-(i-1) && 
-j<=rows+(i-1)
-operation=>operation: Return 0
-oop1=>operation: printf("*") and increment j
-oop2=>operation: printf(" ") and increment j
+##Arithmetical Logic
 
-st->op1(right)->cond
-cond(no, right)->operation
-cond(yes)->sub1
-sub1(right)->cond2
-cond2(no,bottom)->cond3
-cond2(yes)->cond
-cond3(yes)->oop1
-cond3(no)->oop2
-oop1->cond2
-oop2->cond2
-operation(right)->e
-```
+![stars](https://user-images.githubusercontent.com/89015461/183644789-d7af4b83-b0cd-43e3-84da-d39578cfc2d8.png)
+
