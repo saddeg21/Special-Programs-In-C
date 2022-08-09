@@ -17,4 +17,5 @@ __IF CARRY IS 0, THEN IT MEANS THAT ARITHMETICAL OPERATION ENDED UP WELL__
 
 ## DIAGRAM
 
-![bs](https://user-images.githubusercontent.com/89015461/183761129-3b9f8818-a99c-4d7b-a366-2281962284da.png)
+![bs](https://user-images.githubusercontent.com/89015461/183761334-785d70f8-5c93-4dfa-8ec4-f04038c2f535.jpg)
+
