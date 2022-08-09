@@ -15,6 +15,6 @@ We can do that by following these steps:
    - If result is equal to number variable,then print true
    - else print false
 
-##Diagram
+## Diagram
 
 ![Palindrome](https://user-images.githubusercontent.com/89015461/183647807-dc3d16ce-1e18-49f6-9874-beb0d2b02058.png)
