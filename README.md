@@ -1,4 +1,4 @@
-![695px-C_Programming_Language svg](https://user-images.githubusercontent.com/89015461/183999807-686a96a3-6b0d-46b7-8f66-dd13891114c4.png)
+![695px-C_Programming_Language svg (1)](https://user-images.githubusercontent.com/89015461/184000720-ef67561d-2871-4ce4-a71f-82f19ebf487d.png)
 
 # Special-Programs-In-C
 
