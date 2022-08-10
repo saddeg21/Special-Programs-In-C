@@ -5,13 +5,13 @@ If you want to take power-exponent of a number, then you should follow these rul
 
 For the negative values, we need to use __DOUBLE__ datatype at C. Because with that datatype you can work on fractional numbers and thats what we need.
 First things first:
--Create two variables as __int power=1__ and __double powernegative = 1.0__
--If the exponent is bigger than 0
---power=power*base and exponent-- until exponent=0;
--If the exponent is less than 0
---powernegative=powernegative*(1.0/base) and exponent++ until exponent = 0;
--If the exponent is equal to 0
---The result is always 1
+- Create two variables as __int power=1__ and __double powernegative = 1.0__
+- If the exponent is bigger than 0
+-- power=power*base and exponent-- until exponent=0;
+- If the exponent is less than 0
+-- powernegative=powernegative*(1.0/base) and exponent++ until exponent = 0;
+- If the exponent is equal to 0
+-- The result is always 1
 
 ## DIAGRAM
 
