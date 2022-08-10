@@ -1,4 +1,4 @@
-![resize-16601591181599495108CLogo](https://user-images.githubusercontent.com/89015461/184001743-7122c92d-8da3-4750-a81b-8426d16a7111.png)
+![C_Logo](https://user-images.githubusercontent.com/89015461/184002240-bf67e2cd-d1e4-4a5d-baad-c2b77631ab1f.png)
 
 # Special-Programs-In-C
 
